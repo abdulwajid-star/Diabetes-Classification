@@ -22,3 +22,13 @@ The main objective of this project is to develop a multiclass classification mod
 0 → Healthy
 1 → Prediabetes
 2 → Diabetes
+
+---
+
+##  Author
+
+**Abdul Wajid K**
+
+GitHub: https://github.com/yourusername
+
+LinkedIn: https://linkedin.com/in/yourprofile
